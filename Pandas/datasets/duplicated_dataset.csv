@@ -1,0 +1,101 @@
+Name,Age,City,Score,Grade,Status,Dept
+David,38,Mumbai,54,C,Pass,Finance
+Eva,36,Mumbai,86,A,Fail,IT
+Charlie,27,Berlin,81,C,Pass,Finance
+Eva,22,Mumbai,58,B,Pass,HR
+Eva,22,Tokyo,90,A,Pass,HR
+Bob,20,New York,84,B,Fail,HR
+Charlie,24,Berlin,68,C,Pass,Finance
+Charlie,29,New York,97,B,Pass,Finance
+Charlie,26,New York,65,B,Fail,HR
+Eva,28,Tokyo,52,C,Fail,Finance
+David,26,Mumbai,69,B,Pass,HR
+Charlie,28,Mumbai,73,B,Pass,HR
+Eva,27,New York,82,C,Fail,IT
+Bob,31,Berlin,73,B,Fail,Finance
+David,21,Mumbai,60,C,Fail,HR
+Bob,20,Berlin,98,B,Fail,HR
+David,35,Mumbai,57,C,Fail,Finance
+Eva,24,Berlin,85,C,Pass,IT
+Alice,22,Tokyo,87,B,Fail,IT
+David,31,Berlin,89,B,Pass,HR
+Bob,27,Tokyo,69,B,Pass,Finance
+Eva,22,Tokyo,84,A,Pass,IT
+David,20,Berlin,97,A,Fail,Finance
+Alice,22,Tokyo,74,A,Pass,Finance
+Alice,24,New York,84,C,Pass,HR
+Charlie,34,Tokyo,74,B,Fail,IT
+Charlie,33,Mumbai,78,C,Pass,HR
+Bob,22,Berlin,67,A,Pass,IT
+David,20,New York,95,B,Fail,IT
+David,24,Berlin,67,C,Pass,IT
+Charlie,33,Mumbai,51,B,Pass,IT
+David,26,Mumbai,84,C,Pass,IT
+David,28,Mumbai,65,B,Fail,Finance
+Alice,34,Tokyo,90,A,Fail,HR
+Charlie,34,Tokyo,85,A,Fail,Finance
+Eva,29,Berlin,82,B,Pass,IT
+Charlie,32,Berlin,53,C,Pass,HR
+Eva,38,New York,82,A,Fail,IT
+Alice,26,New York,63,A,Pass,HR
+Bob,36,Berlin,70,A,Pass,Finance
+David,39,Tokyo,97,B,Fail,HR
+Alice,23,Mumbai,69,B,Fail,HR
+David,24,Berlin,57,C,Pass,HR
+Bob,26,New York,56,C,Pass,HR
+Bob,32,Tokyo,52,C,Pass,HR
+Alice,34,Berlin,66,B,Fail,IT
+Bob,30,Berlin,82,B,Fail,HR
+Eva,23,Tokyo,97,C,Fail,HR
+Bob,32,Berlin,61,C,Fail,Finance
+David,26,Tokyo,71,B,Pass,HR
+David,38,Mumbai,71,C,Fail,Finance
+David,21,Tokyo,95,A,Fail,IT
+David,29,Tokyo,79,B,Fail,HR
+Eva,32,Tokyo,87,C,Fail,Finance
+Charlie,25,Berlin,87,B,Fail,Finance
+Alice,31,Berlin,94,A,Pass,IT
+David,31,Tokyo,57,B,Pass,HR
+Bob,39,Berlin,76,B,Fail,HR
+David,30,New York,76,B,Pass,Finance
+Bob,26,New York,83,B,Fail,HR
+Bob,20,Berlin,70,A,Fail,Finance
+David,20,Berlin,79,B,Pass,HR
+Eva,39,Tokyo,82,B,Pass,Finance
+Bob,32,Mumbai,77,C,Fail,HR
+Bob,28,Berlin,96,B,Fail,IT
+David,22,New York,82,C,Fail,HR
+Bob,26,Tokyo,54,A,Pass,HR
+Bob,25,Berlin,97,A,Fail,IT
+David,27,New York,68,A,Fail,HR
+David,28,New York,53,A,Fail,IT
+Alice,24,Mumbai,84,C,Pass,HR
+Eva,20,Tokyo,98,B,Fail,Finance
+Eva,38,Tokyo,66,A,Fail,Finance
+Bob,29,Mumbai,93,B,Pass,HR
+Eva,31,Mumbai,77,C,Fail,HR
+Bob,34,Tokyo,79,C,Fail,HR
+Alice,28,Tokyo,78,C,Pass,Finance
+David,39,Berlin,95,A,Fail,HR
+David,36,Berlin,55,B,Pass,Finance
+David,36,Mumbai,84,B,Pass,IT
+Eva,39,Berlin,90,B,Fail,Finance
+Alice,31,New York,86,C,Fail,Finance
+Eva,26,Berlin,73,A,Fail,IT
+Eva,21,Berlin,78,C,Fail,Finance
+Alice,22,New York,98,C,Pass,HR
+Alice,36,Mumbai,95,B,Fail,HR
+Alice,24,New York,80,C,Pass,Finance
+Alice,36,Berlin,84,B,Fail,HR
+David,36,Mumbai,82,A,Fail,Finance
+Charlie,36,Berlin,70,B,Fail,HR
+David,39,Tokyo,97,B,Fail,HR
+David,20,Berlin,97,A,Fail,Finance
+Alice,31,Berlin,94,A,Pass,IT
+Alice,24,Mumbai,84,C,Pass,HR
+David,38,Mumbai,54,C,Pass,Finance
+Charlie,33,Mumbai,78,C,Pass,HR
+Bob,36,Berlin,70,A,Pass,Finance
+David,22,New York,82,C,Fail,HR
+David,26,Mumbai,69,B,Pass,HR
+Bob,32,Tokyo,52,C,Pass,HR
