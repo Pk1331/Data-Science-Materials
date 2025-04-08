@@ -1,0 +1,5 @@
+# Ignore the entire Myenev directory
+Pandas/datasets/Myenev/
+
+# Ignore all .py files inside Pandas/datasets/
+Pandas/datasets/*.py
